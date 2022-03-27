@@ -1,0 +1,14 @@
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\bin\Debug\netcoreapp3.1\Homework2.exe
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\bin\Debug\netcoreapp3.1\Homework2.deps.json
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.json
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.dev.json
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\bin\Debug\netcoreapp3.1\Homework2.dll
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\bin\Debug\netcoreapp3.1\Homework2.pdb
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.csproj.AssemblyReference.cache
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfoInputs.cache
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfo.cs
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.dll
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.pdb
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homework2\obj\Debug\netcoreapp3.1\Homework2.genruntimeconfig.cache

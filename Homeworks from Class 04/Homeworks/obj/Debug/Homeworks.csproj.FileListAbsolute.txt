@@ -1,0 +1,7 @@
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homeworks\bin\Debug\Homeworks.exe.config
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homeworks\bin\Debug\Homeworks.exe
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homeworks\bin\Debug\Homeworks.pdb
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homeworks\obj\Debug\Homeworks.csproj.AssemblyReference.cache
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homeworks\obj\Debug\Homeworks.csproj.CoreCompileInputs.cache
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homeworks\obj\Debug\Homeworks.exe
+C:\Users\Irena Risteska\Desktop\Academy for Programming\05 Basic C#\Homeworks from Class 04\Homeworks\obj\Debug\Homeworks.pdb
